@@ -1,5 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=DHRUVvkdv&color=blueviolet" />
-
+<img align="right" src="https://profile-counter.glitch.me/DHRUVvkdv/count.svg" />
 
 ## Hi there 👋
 
