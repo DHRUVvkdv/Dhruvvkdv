@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DHRUVvkdv.Dhruvvkdv" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DHRUVvkdv" />
 
 
 ## Hi there 👋
