@@ -1,4 +1,3 @@
-<img align="right" src="https://profile-counter.glitch.me/DHRUVvkdv/count.svg" />
 
 ## Hi there 👋
 
@@ -110,6 +109,8 @@
 </picture>
 
 ###
+
+<h1 align="center">👀 Profile Hits</h1>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/DHRUVvkdv/count.svg?"  />
