@@ -1,4 +1,5 @@
-<img align="right" src="https://hits.sh/github.com/DHRUVvkdv.svg" />
+<img align="right" src="https://komarev.com/ghpvc/?username=DHRUVvkdv&color=blueviolet" />
+
 
 ## Hi there 👋
 
