@@ -111,7 +111,6 @@
 
 ###
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHRUVvkdv/Dhruvvkdv/output/github-snake-dark.svg" />
